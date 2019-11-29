@@ -1,0 +1,22 @@
+
+
+
+
+%DataDocumento%
+
+%Denominazione%
+%Indirizzo%
+%CAP% - %Citta% (%Prov.%)
+%Tel.%
+
+
+Oggetto: Conferma %TYPE_OBJ% nr. %ORDER_NUMBER%
+
+---------------------------------------------------------------------------
+|CODICE  |Descrizione                   |QUANTITA'|PREZZO UN.|IVA|TOTALE  |
+|-------------------------------------------------------------------------|
+%ORDER_ROWS%|-------------------------------------------------------------------------|
+| Totale ordine: %Totale% (IVA incl.)                                |
+---------------------------------------------------------------------------
+NOTE:
+%Note%

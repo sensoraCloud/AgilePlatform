@@ -1,0 +1,169 @@
+#######################################
+#                                     #
+#   This file contains translations   #
+#   of the application.               #
+#   Keys and values are separated     #
+#   by the equals-sign "=".           #
+#   You can include parameters with   #
+#   the standard {0}, {1} etc         #
+#   mechanism.                        #
+#                                     #
+#######################################
+
+workflow.node=Stato
+
+SEND_TO_SERVER_ACTIVITY=Invia al server
+
+mainmenuform.ticker=Segli un opzione
+mainmenuform.title=Menu principale
+mainmenuform.menu.anagrafic=Anagrafiche
+mainmenuform.menu.newelement=Nuovo
+mainmenuform.menu.search=Cerca
+mainmenuform.menu.list=Sfoglia
+mainmenuform.menu.workflow=Flussi
+mainmenuform.menu.document=Documenti
+mainmenuform.menu.strument=Strumenti
+mainmenuform.menu.setting=Impostazioni
+mainmenuform.menu.calc=Calcolatrice
+mainmenuform.menu.activity=Attività
+mainmenuform.menu.tosenddocument=Documenti da inviare
+mainmenuform.menu.sentdocument=Documenti inviati
+mainmenuform.menu.calendar=Calendario
+
+
+command.collapseAll=Comprimi
+command.back=Indietro
+command.select=Seleziona
+command.confirm=Conferma
+command.cancel=Annulla
+command.save=Salva
+command.exit=Esci
+command.home=Torna Menu Principale
+command.saveandcreatedoc=Salva e Crea Nuovo
+command.help=Guida
+command.finddocument=Trova 
+command.view=Visualizza
+command.update=Modifica
+command.beforePage=Pagina precedente
+command.nextPage=Prossima pagina
+command.stop=Stop
+command.start=Parti
+command.control=Monitora
+command.retry=Riprova
+command.filterby=Filtra per
+command.orderby=Ordina per 
+command.search=Cerca
+command.create=Crea
+command.add=Aggiungi
+command.edit=Edita
+command.end=Finito
+command.interupt=Interrompi
+command.print=Stampa
+command.login=Login
+command.duplicatein=Duplica in 
+command.createNewDocCommand=Crea Nuovo 
+command.viewcart=Vedi carrello
+command.sync=Sincronizza
+command.changelogin=Cambia credenziali
+command.adminconnection=Gestione connessioni
+command.admindata=Gestione dati
+command.delete=Elimina
+command.deleteall=Elimina tutto
+command.findlink=Link
+command.refreshdata=Refresh dati
+command.sincAllObjs=Sincronizza Dati
+
+polish.command.select=Seleziona
+
+message.notautorizedtowrite=Scrittura non autorizzata
+message.notautorizedtoread=Lettura non autorizzata
+message.failed=Fallito
+message.cancelled=Annullato
+message.paused=In pausa
+message.noTimeRemaining=Tempo rimanente indefinito
+message.completed=Completato
+message.nostarted=Non è ancora avviato
+message.progress=In elaborazione..
+message.loadconfig=Caricamento sistema..
+message.loadData=Caricamento dati
+message.saved=Salvataggio avvenuto con successo!
+message.nosaved=Non è stato possibile effettaure il salvataggio!
+message.search=Ricerca
+message.sortingvalue=Ordinamento valori
+message.noresults=Nessun oggetto trovato!
+message.error=Errore
+message.add=Aggiunto!
+message.searching=Ricerca in corso..
+message.errlogin=Inserire le credenziali correttamente!
+message.errwrite=Errore scrittura !
+message.duplicate=Duplicato!
+message.new=Nuovo
+message.duplicatedoc=Duplicazione documento
+message.deletedoc=Eliminazione documento
+message.deleted=Eliminato!
+message.canceled=Modifiche annullate!
+message.oneelement=Selezionare almeno un oggetto!
+message.errallfields=Inserire correttamente i campi!
+message.noobjs=Non ci sono oggetti
+message.deleteallobjs=Cancellazione
+message.loginfailed=Login errato!
+
+alert.infosave=Info. salvataggio
+alert.infodelete=Info. eliminazione
+alert.cancel=Annullamento
+
+AdmAnagBeanObjForm.title=Gestione Anagrafica:
+AdmAnagBeanObjForm.noValue=Nessun valore
+
+AdmDocDetailForm.title=Gestione Documentale:
+AdmDocDetailForm.head=Testata
+AdmDocDetailForm.command.head=Testata
+AdmDocDetailForm.command.viewHead=Visualizza
+AdmDocDetailForm.command.updateHead=Modifica
+AdmDocDetailForm.command.row=Riga
+AdmDocDetailForm.command.rowNew=Nuova
+AdmDocDetailForm.command.rowUpdate=Modifica
+AdmDocDetailForm.command.rowDelete=Elimina
+AdmDocDetailForm.command.confirm=Conferma
+AdmDocDetailForm.command.confirmAndSendToServer=Conferma ed Invia al Server
+AdmDocDetailForm.command.cancel=Annulla
+AdmDocDetailForm.command.delete=Elimina documento
+AdmDocDetailForm.command.add=Aggiungi
+AdmDocDetailForm.command.norows=Nessuna riga
+
+
+SearchForm.standard.title=Ricerca
+SearchForm.newdoc.title=Creazione
+SearchForm.cart.title=Carrello
+SearchForm.workflow.title=Flussi
+SearchForm.searchTypeObj=Oggetto
+SearchForm.searchField=Campo
+SearchForm.from=Da
+SearchForm.to=A
+SearchForm.search=Cerca
+SearchForm.filter=Filtro
+SearchForm.free=Libera
+SearchForm.results=Risultati
+SearchForm.nothing=Nessuno
+
+ConfigMenu.title=Configurazione
+
+AdminConnectionForm.title=Gestione Connessione
+AdminConnectionForm.connectionURL=Server URL
+
+AdminDataForm.title=Gestione dati
+
+LoginForm.user=Utente
+LoginForm.pw=Password
+
+HelpForm.title=Guida in linea
+
+FunctionMenuForm.title=Gestione
+
+CalendarMenuForm.title=Calendario
+
+polish.command.select=Visualizza
+
+
+
+
